@@ -1,0 +1,152 @@
+[
+  {
+    "id": "INV-1001",
+    "date": "2026-06-03",
+    "type": "Sale",
+    "category": "Standard",
+    "amount": "1500.00",
+    "taxable": "1500.00",
+    "vat": "232.50",
+    "inclusive": false
+  },
+  {
+    "id": "INV-1002",
+    "date": "2026-06-10",
+    "type": "Sale",
+    "category": "Zero-rated",
+    "amount": "600.00",
+    "taxable": "600.00",
+    "vat": "0.00",
+    "inclusive": false
+  },
+  {
+    "id": "INV-1003",
+    "date": "2026-06-18",
+    "type": "Sale",
+    "category": "Exempt",
+    "amount": "200.00",
+    "taxable": "200.00",
+    "vat": "0.00",
+    "inclusive": false
+  },
+  {
+    "id": "PUR-1001",
+    "date": "2026-06-05",
+    "type": "Purchase",
+    "category": "Standard",
+    "amount": "800.00",
+    "taxable": "692.64",
+    "vat": "107.36",
+    "inclusive": true
+  },
+  {
+    "id": "PUR-1002",
+    "date": "2026-06-20",
+    "type": "Purchase",
+    "category": "Standard",
+    "amount": "350.00",
+    "taxable": "350.00",
+    "vat": "54.25",
+    "inclusive": false
+  },
+  {
+    "id": "INV-1004",
+    "date": "2026-07-02",
+    "type": "Sale",
+    "category": "Standard",
+    "amount": "2200.00",
+    "taxable": "2200.00",
+    "vat": "341.00",
+    "inclusive": false
+  },
+  {
+    "id": "INV-1005",
+    "date": "2026-07-09",
+    "type": "Sale",
+    "category": "Standard",
+    "amount": "975.50",
+    "taxable": "844.59",
+    "vat": "130.91",
+    "inclusive": true
+  },
+  {
+    "id": "INV-1006",
+    "date": "2026-07-15",
+    "type": "Sale",
+    "category": "Zero-rated",
+    "amount": "450.00",
+    "taxable": "450.00",
+    "vat": "0.00",
+    "inclusive": false
+  },
+  {
+    "id": "PUR-1003",
+    "date": "2026-07-04",
+    "type": "Purchase",
+    "category": "Standard",
+    "amount": "1100.00",
+    "taxable": "1100.00",
+    "vat": "170.50",
+    "inclusive": false
+  },
+  {
+    "id": "PUR-1004",
+    "date": "2026-07-22",
+    "type": "Purchase",
+    "category": "Zero-rated",
+    "amount": "300.00",
+    "taxable": "300.00",
+    "vat": "0.00",
+    "inclusive": false
+  },
+  {
+    "id": "INV-1007",
+    "date": "2026-08-01",
+    "type": "Sale",
+    "category": "Standard",
+    "amount": "1800.00",
+    "taxable": "1800.00",
+    "vat": "279.00",
+    "inclusive": false
+  },
+  {
+    "id": "INV-1008",
+    "date": "2026-08-11",
+    "type": "Sale",
+    "category": "Exempt",
+    "amount": "250.00",
+    "taxable": "250.00",
+    "vat": "0.00",
+    "inclusive": false
+  },
+  {
+    "id": "INV-1009",
+    "date": "2026-08-19",
+    "type": "Sale",
+    "category": "Standard",
+    "amount": "3200.00",
+    "taxable": "2770.56",
+    "vat": "429.44",
+    "inclusive": true
+  },
+  {
+    "id": "PUR-1005",
+    "date": "2026-08-06",
+    "type": "Purchase",
+    "category": "Standard",
+    "amount": "900.00",
+    "taxable": "779.22",
+    "vat": "120.78",
+    "inclusive": true
+  },
+  {
+    "id": "PUR-1006",
+    "date": "2026-08-25",
+    "type": "Purchase",
+    "category": "Exempt",
+    "amount": "150.00",
+    "taxable": "150.00",
+    "vat": "0.00",
+    "inclusive": false
+  }
+]
